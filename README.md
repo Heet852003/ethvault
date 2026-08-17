@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/ethvault-logo.svg" width="100" alt="ETHVault logo" />
+</p>
+
 <h1 align="center">ETHVault</h1>
 <p align="center"><b>An Ethereum staking and governance platform: deposit ETH, stake it, earn rewards, and vote on proposals.</b></p>
 
